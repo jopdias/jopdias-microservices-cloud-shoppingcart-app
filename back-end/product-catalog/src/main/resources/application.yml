@@ -1,0 +1,9 @@
+#srping:
+#  application:
+#    name:product-catalog
+#
+#
+#cloud:
+#  config:
+#    url:
+#      uri: http://local
